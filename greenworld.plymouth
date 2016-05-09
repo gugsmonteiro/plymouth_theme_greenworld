@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Dark Arch
+Description=greenworld by: gugs
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/greenworld
+ScriptFile=/usr/share/plymouth/themes/greenworld/theme.script
