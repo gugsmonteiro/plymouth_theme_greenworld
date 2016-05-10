@@ -3,6 +3,7 @@
 
 *greenworld*for Plymouth, the boot splash tool for Linux. It's designed with Arch Linux in mind, but can be used in any installation that uses Plymouth.
 
+https://www.dropbox.com/s/09iv5t6sslirqid/plymoth%20theme%20example.png?dl=0
 
 ## How to install the theme
 Use your favorite way to install packages from the AUR. For example:
@@ -11,7 +12,7 @@ Use your favorite way to install packages from the AUR. For example:
 
 Extract greenworld on /usr/share/plymouth/themes/ with root previleges.
 
-Once installed you can set it as your theme:
+Once extracted you can set it as your theme:
 
     sudo plymouth-set-default-theme -R greenworld
 
