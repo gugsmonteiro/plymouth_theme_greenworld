@@ -9,7 +9,7 @@ Use your favorite way to install plymouth from the AUR. For example:
 
     yaourt -S plymouth
 
-Extract greenworld on /usr/share/plymouth/themes/ with root previleges.
+Extract greenworld on /usr/share/plymouth/themes/ with root privileges.
 
 Once extracted you can set it as your theme:
 
