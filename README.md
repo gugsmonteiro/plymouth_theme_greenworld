@@ -1,7 +1,7 @@
 # plymouth_theme_greenworld
-## greenworld
+## Greenworld
 
-*greenworld for Plymouth, the boot splash tool for Linux. It's designed for Arch Linux, but can be used in any installation that uses Plymouth.
+*Greenworld for Plymouth, the boot splash tool for Linux. It's designed for Arch Linux, but can be used in any installation that uses Plymouth.
 
 https://www.dropbox.com/s/09iv5t6sslirqid/plymoth%20theme%20example.png?dl=0
 
