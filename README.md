@@ -23,7 +23,7 @@ Simply remove the package with pacman:
 
 ## License
 
-Copyright (C) 2015  Josep Sayol
+Copyright (C) 2016 Gugs Monteiro
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
